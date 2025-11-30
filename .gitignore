@@ -4,4 +4,4 @@ Manifest.toml
 Project.toml
 *.mp4
 
-src/day_21.jl
+src/day-21.jl
